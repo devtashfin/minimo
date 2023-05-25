@@ -181,6 +181,9 @@ padding: 70px 0;    background-color: #f0f0f0;
     color: #bfc4c6;
     cursor: pointer;
 }
+.load button:hover {
+    color: #000000;
+}
 /* blog2 start */
 /* footer start */
 footer {
